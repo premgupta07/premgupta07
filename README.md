@@ -23,7 +23,7 @@ I code for Fun in any language including:
 
 Python	C/C++	Java	Octave	SQL		CSS		HTML  JS
 
-I am a Software Developer Intern at CPPSECRETS, Python Trainee at Redhat Linux, Machine Learning Trainee at Verzeo.
+I have completed my roles as Software Developer Intern at CPPSECRETS, Python Trainee at Redhat Linux, Machine Learning Trainee at Verzeo.
 
 Here's a little insight into what motivates me:
 Technology and AI has impacted the way we live our lives and how we grow. The knowledge and skills learned through the study of Computer Science has found applications in almost every job sector. Being a fan of interdisciplinary work, I want to apply the skills I learn in the classroom. My past research and internship experiences reflect this passion as I continue to explore the endless opportunities Computer Science has to offer.
