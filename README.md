@@ -23,7 +23,7 @@ I code for Fun in any language including:
 
 Python	C/C++	Java	Octave	SQL		CSS		HTML  JS
 
-I have completed my roles as Software Developer Intern at CPPSECRETS, Machine Learning Trainee at Verzeo.I am working on a project as an intern in HighRadius.
+I have completed my roles as Software Developer Intern at CPPSECRETS, Machine Learning Trainee at Verzeo.I am working on a project where [application of ML, Connectivity using SQLyog and Java and presentation using React,Redux is present] as an intern in HighRadius.
 
 Here's a little insight into what motivates me:
 Technology and AI has impacted the way we live our lives and how we grow. The knowledge and skills learned through the study of Computer Science has found applications in almost every job sector. Being a fan of interdisciplinary work, I want to apply the skills I learn in the classroom. My past research and internship experiences reflect this passion as I continue to explore the endless opportunities Computer Science has to offer.
