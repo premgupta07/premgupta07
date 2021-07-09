@@ -1,4 +1,4 @@
-### Hello Everyone! 👋
+### Hello Everyone!😄
 
 <!--
 **premgupta07/premgupta07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is Prem Gupta😊. I am currently pursuing B.Tech at School of Computer Engineering, KIIT(Deemed to be University). I am looking to pursue a challenging career and be part of a progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation.
+This is Prem Gupta😊. I am currently pursuing B.Tech at School of Computer Engineering, KIIT(Deemed to be University). I am looking to pursue a engaging career and be part of a growing organization that gives a scope to enhance my knowledge and utilize my skills towards the growth and profit of the organisation.
 
-I am a self driven and versatile individual with an interest in problem-solving and passion for strategy development, leadership activities and writing✍🏼. I am a sports enthusiast and have badminton as sports hobby. I desire to make a positive impact on the people around me and hope to achieve this through personal projects, internships, webinars and other experiences.
+I am a self driven and versatile individual with an interest in problem-solving and passion for strategy development, leadership activities and writing✍🏼. I am a sports enthusiast and have badminton as sports hobby. I desire to make a positive impact on the people around me and hope to achieve this through projects and internships.
 
-I code for Fun in any language including:
+I use and solve in the languages medntioned below:
 
 Python	C/C++	Java	Octave	SQL		CSS		HTML  JS
 
-I have completed my roles as Software Developer Intern at CPPSECRETS, Machine Learning Trainee at Verzeo.I am working on a project where [application of ML, Connectivity using SQLyog and Java and presentation using React,Redux is present] as an intern in HighRadius.
+I have completed my roles as Software Developer Intern at CPPSECRETS, Machine Learning Trainee at Verzeo.I worked on a project of making B2B application as an trainee intern in HighRadius. Currently I am paid Consulting Technical Intern working on webagents, parsers and many other amazing concepts and techniques.
 
 Here's a little insight into what motivates me:
-Technology and AI has impacted the way we live our lives and how we grow. The knowledge and skills learned through the study of Computer Science has found applications in almost every job sector. Being a fan of interdisciplinary work, I want to apply the skills I learn in the classroom. My past research and internship experiences reflect this passion as I continue to explore the endless opportunities Computer Science has to offer.
+Computer Science has impacted the way we live our lives and how we grow. The knowledge, skills and problem solving learned through the study of Computer Science has evidently found applications in almost every job sector. Being a fan of learn by doing, I apply the skills and concepts I learn in the classroom and do hands-on implementation. My past research and internship experiences reflect this as I learn more and explore the opportunities Computer Science has to offer.
