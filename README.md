@@ -18,7 +18,7 @@ I am in final year in B.Tech at School of Computer Engineering, KIIT(Deemed to b
 
 I am a self driven and versatile individual with an interest in problem-solving and passion for strategy development, leadership activities and writing.I desire to make a positive impact on the people around me and hope to achieve this through projects and internships.
 
-I use and solve in the languages medntioned:
+I use and solve in the languages mentioned:
 C/C++	Java  Python 	Octave	SQL		CSS		HTML  JS
 
 I have completed my roles as Software Developer Intern at CPPSECRETS, Machine Learning Trainee at Verzeo.I worked on a project of making B2B application as an trainee intern in HighRadius. Currently I am paid Consulting Technical Intern working on webagents, parsers and many other amazing concepts and techniques.
